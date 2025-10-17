@@ -17,7 +17,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
 ## Status
-![status](5.png)
+![status](6.png)
 
 ---
 
@@ -38,4 +38,7 @@
 - Fout!
 
 - beurt6: Lucas gokt "M"
+- Fout!
+
+- beurt7: Joris gokt "O"
 - Fout!
