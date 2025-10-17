@@ -2,7 +2,7 @@
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. Joris
+1. Joris.............
 2. Blue
 3. Jakub
 4. Amias
