@@ -1,2 +1,27 @@
-Galgje qwertyuiopasdfghjklzxcvbnm
-![Model]([link_address_to_image](https://cdn.discordapp.com/attachments/1347101154634371083/1428678647727788032/togif.gif?ex=68f3602d&is=68f20ead&hm=55e32a982a4118fe8e0f0e23d2fcb3215bb94b7f81bfde6a1e13e648cae4f5c9&))
+# Galgje – Git Collaboration
+
+**Team:** <Teamnaam>  
+**Spelvolgorde & contact:**
+1. Lucas
+2. Joris
+3. Blue
+4. Jakub
+5. Amias
+
+---
+
+## Woordraster
+<!-- Pas het aantal kolommen aan aan de woordlengte -->
+| . | . | . | . | . | . | . | . | . | . | . | . |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+
+## Status
+![status](images/image1.png)
+
+---
+
+## Beurtenlog
+- beurt1: <Naam> gokt "?"
+- (Git-master vult hier reactie in: goed/fout + updates)
+- beurt2: ...
