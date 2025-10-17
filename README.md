@@ -12,7 +12,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | e | . | . | . | . | . | . | e |
+| . | . | . | i | . | e | . | i | . | . | . | . | e |
 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
@@ -42,3 +42,6 @@
 
 - beurt7: Joris gokt "O"
 - Fout!
+
+- beurt8: Blue gokt "I"
+- goed!
