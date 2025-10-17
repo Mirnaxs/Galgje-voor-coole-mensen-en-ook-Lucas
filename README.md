@@ -25,4 +25,5 @@
 - beurt1: Lucas gokt "E"
 - Goed!
 
-- beurt2: ...
+- beurt2: Joris gokt "R"
+- Fout!
