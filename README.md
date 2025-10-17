@@ -17,7 +17,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
 ## Status
-![status](1.png)
+![status](2.png)
 
 ---
 
@@ -26,4 +26,7 @@
 - Goed!
 
 - beurt2: Joris gokt "R"
+- Fout!
+
+- beurt3: Blue gokt "G"
 - Fout!
