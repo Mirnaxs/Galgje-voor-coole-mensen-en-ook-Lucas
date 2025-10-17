@@ -17,7 +17,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
 ## Status
-![status](6.png)
+![status](7.png)
 
 ---
 
@@ -45,3 +45,6 @@
 
 - beurt8: Blue gokt "I"
 - goed!
+
+- beurt9: Jakub gokt "D"
+- Fout!
