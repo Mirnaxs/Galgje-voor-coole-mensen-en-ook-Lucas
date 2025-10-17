@@ -12,7 +12,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | . | . | . | . | . | . | . | . |
+| . | . | . | . | . | e | . | . | . | . | . | . | e |
 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 
@@ -22,6 +22,7 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
-- (Git-master vult hier reactie in: goed/fout + updates)
+- beurt1: Lucas gokt "E"
+- Goed!
+
 - beurt2: ...
